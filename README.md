@@ -53,12 +53,19 @@ Python 3.x.
 
 Steps:
 Clone the repository:
+
 git clone <your-repository-link>
+
 cd WiFiGuard
+
 Make scripts executable:
+
 chmod +x *.py
+
 Run the tool installer:
+
 Execute the installer script to download and configure all dependencies.
+
 sudo python3 tools_installer.py
 
 USAGE
